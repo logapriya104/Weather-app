@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/logapriya104/Weather-app/static/css/main.9073e3ce.css",
+    "main.js": "/logapriya104/Weather-app/static/js/main.1fe26600.js",
+    "static/js/453.18e1a2b4.chunk.js": "/logapriya104/Weather-app/static/js/453.18e1a2b4.chunk.js",
+    "static/media/rainy.jpg": "/logapriya104/Weather-app/static/media/rainy.a3ff818a56fccb2c13b1.jpg",
+    "static/media/clearweather.png": "/logapriya104/Weather-app/static/media/clearweather.ed4429e3727a14adfdbf.png",
+    "static/media/cloudy.png": "/logapriya104/Weather-app/static/media/cloudy.d8b5c63598023526ca5d.png",
+    "static/media/backgroundimg.png": "/logapriya104/Weather-app/static/media/backgroundimg.7794cc375460b56c5b81.png",
+    "index.html": "/logapriya104/Weather-app/index.html",
+    "main.9073e3ce.css.map": "/logapriya104/Weather-app/static/css/main.9073e3ce.css.map",
+    "main.1fe26600.js.map": "/logapriya104/Weather-app/static/js/main.1fe26600.js.map",
+    "453.18e1a2b4.chunk.js.map": "/logapriya104/Weather-app/static/js/453.18e1a2b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9073e3ce.css",
+    "static/js/main.1fe26600.js"
+  ]
+}
